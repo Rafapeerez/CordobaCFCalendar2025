@@ -1,0 +1,42 @@
+Mirandés vs Córdoba CF, Date: 2024-08-16 19:00:00 
+Córdoba CF vs Burgos, Date: 2024-08-26 21:30:00 
+Elche vs Córdoba CF, Date: 2024-09-02 21:30:00 
+Córdoba CF vs Málaga, Date: 2024-09-07 21:00:00 
+Córdoba CF vs RC Deportivo, Date: 2024-09-15 00:00:00 
+Huesca vs Córdoba CF, Date: 2024-09-22 00:00:00 
+Córdoba CF vs Racing Ferrol, Date: 2024-09-29 00:00:00 
+Albacete vs Córdoba CF, Date: 2024-10-06 00:00:00 
+Granada vs Córdoba CF, Date: 2024-10-13 00:00:00 
+Córdoba CF vs FC Cartagena, Date: 2024-10-20 00:00:00 
+Racing vs Córdoba CF, Date: 2024-10-23 00:00:00 
+Córdoba CF vs Eldense, Date: 2024-10-27 00:00:00 
+Almería vs Córdoba CF, Date: 2024-11-03 00:00:00 
+Córdoba CF vs CD Castellón, Date: 2024-11-10 00:00:00 
+Cádiz vs Córdoba CF, Date: 2024-11-17 00:00:00 
+Córdoba CF vs Real Zaragoza, Date: 2024-11-24 00:00:00 
+Real Sporting vs Córdoba CF, Date: 2024-12-01 00:00:00 
+Córdoba CF vs Tenerife, Date: 2024-12-08 00:00:00 
+Levante vs Córdoba CF, Date: 2024-12-15 00:00:00 
+Córdoba CF vs Eibar, Date: 2024-12-18 00:00:00 
+Real Oviedo vs Córdoba CF, Date: 2024-12-22 00:00:00 
+Córdoba CF vs Almería, Date: 2025-01-11 00:00:00 
+CD Castellón vs Córdoba CF, Date: 2025-01-19 00:00:00 
+Córdoba CF vs Racing, Date: 2025-01-26 00:00:00 
+FC Cartagena vs Córdoba CF, Date: 2025-02-02 00:00:00 
+Córdoba CF vs Huesca, Date: 2025-02-09 00:00:00 
+Tenerife vs Córdoba CF, Date: 2025-02-16 00:00:00 
+Racing Ferrol vs Córdoba CF, Date: 2025-02-23 00:00:00 
+Córdoba CF vs Granada, Date: 2025-03-02 00:00:00 
+RC Deportivo vs Córdoba CF, Date: 2025-03-09 00:00:00 
+Córdoba CF vs Real Sporting, Date: 2025-03-16 00:00:00 
+Real Zaragoza vs Córdoba CF, Date: 2025-03-23 00:00:00
+Córdoba CF vs Elche, Date: 2025-03-30 00:00:00 
+Málaga vs Córdoba CF, Date: 2025-04-06 00:00:00 
+Córdoba CF vs Levante, Date: 2025-04-13 00:00:00 
+Córdoba CF vs Real Oviedo, Date: 2025-04-20 00:00:00 
+Eldense vs Córdoba CF, Date: 2025-04-27 00:00:00 
+Córdoba CF vs Cádiz, Date: 2025-05-04 00:00:00 
+Burgos vs Córdoba CF, Date: 2025-05-11 00:00:00 
+Córdoba CF vs Mirandés, Date: 2025-05-18 00:00:00 
+Eibar vs Córdoba CF, Date: 2025-05-25 00:00:00 
+Córdoba CF vs Albacete, Date: 2025-06-01 00:00:00 
