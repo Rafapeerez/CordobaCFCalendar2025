@@ -37,3 +37,4 @@ python3 launcher.py
 
 ### Members
 - [Álvaro Serrano](https://github.com/Serranito09/Serranito09)
+- [Rafael Perez](https://github.com/Rafapeerez/)
