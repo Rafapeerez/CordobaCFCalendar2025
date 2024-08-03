@@ -29,7 +29,7 @@ Racing Ferrol vs Córdoba CF, Date: 2025-02-23 00:00:00
 Córdoba CF vs Granada, Date: 2025-03-02 00:00:00 
 RC Deportivo vs Córdoba CF, Date: 2025-03-09 00:00:00 
 Córdoba CF vs Real Sporting, Date: 2025-03-16 00:00:00 
-Real Zaragoza vs Córdoba CF, Date: 2025-03-23 00:00:00
+Real Zaragoza vs Córdoba CF, Date: 2025-03-23 00:00:00 
 Córdoba CF vs Elche, Date: 2025-03-30 00:00:00 
 Málaga vs Córdoba CF, Date: 2025-04-06 00:00:00 
 Córdoba CF vs Levante, Date: 2025-04-13 00:00:00 

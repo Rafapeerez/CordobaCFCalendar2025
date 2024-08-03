@@ -2,24 +2,26 @@ import datetime
 import os.path
 import re
 from datetime import datetime,timedelta
+from dotenv import load_dotenv
+import os
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
-# If modifying these scopes, delete the file token.json.
+
+load_dotenv()
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
+team = os.getenv('TEAM')
 
 def get_macthes():
     with open('matches.txt', 'r') as file:
         data = file.read()
 
-    # Expresión regular para capturar partidos, fechas y horas
+    # Regex to transform file data
     pattern = r'(.+?) vs (.+?), Date: (\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})'
-
-    # Buscar todas las coincidencias
     matches = re.findall(pattern, data)
 
     return matches
@@ -28,7 +30,7 @@ def get_macthes():
 def create_events(service, matches):
     for match in matches:
         final_time = timedelta(hours = 2)
-        is_local = True if match[0] == 'Córdoba CF' else False
+        is_local = True if match[0] == team else False
         
         date = match[2]
         hour = match[3]
