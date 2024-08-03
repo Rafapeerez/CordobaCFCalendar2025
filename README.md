@@ -34,3 +34,6 @@ Run the code with:
 ```bash
 python3 launcher.py
 ```
+
+### Members
+- [Álvaro Serrano](https://github.com/Serranito09/Serranito09)
