@@ -31,3 +31,4 @@ app.*.map.json
 
 .env
 credentials.json
+/venv/
