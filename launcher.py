@@ -81,7 +81,6 @@ def main():
     service = authenticate_google()
     create_events(service, get_macthes())
 
-    # Call the Calendar API
 
 
 
